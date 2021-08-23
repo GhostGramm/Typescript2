@@ -6,7 +6,7 @@ greet(5,7);
 
 //the number 3 is an optional parameter
 
-const minus = (a:number, b:number){
+const minus = (a:number, b:number) =>{
     return a + b;
 }
 
